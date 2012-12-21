@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
      "lib/roo/excel2003xml.rb",
      "lib/roo/excelx.rb",
      "lib/roo/generic_spreadsheet.rb",
-     "lib/roo/google.rb",
+     "lib/roo/google_sheet.rb",
      "lib/roo/openoffice.rb",
      "lib/roo/roo_rails_helper.rb",
      "lib/roo/version.rb",
